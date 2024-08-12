@@ -1,0 +1,41 @@
+/* Features.css */
+.features {
+    padding: 60px 20px;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  
+  .features h2 {
+    font-size: 2.5rem;
+    color: #202124;
+    margin-bottom: 40px;
+  }
+  
+  .feature-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .feature-item {
+    width: 30%;
+    min-width: 250px;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feature-item h3 {
+    font-size: 1.5rem;
+    color: #1a73e8;
+    margin-bottom: 10px;
+  }
+  
+  .feature-item p {
+    font-size: 1rem;
+    color: #5f6368;
+    line-height: 1.6;
+  }
+  

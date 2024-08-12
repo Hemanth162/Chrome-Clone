@@ -1,0 +1,19 @@
+/* src/components/MainSection.css */
+.main-section {
+    padding: 100px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .main-content img {
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .main-content h1 {
+    font-size: 3rem;
+    color: #202124;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+  
